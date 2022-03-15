@@ -10,7 +10,7 @@ Part one is the "Layer2" data model, that is the corresponding data model to all
 
 The data is then visualized in the webapp as shown below:
 
-The visualization is sliced into three parts as well. The overlay network, the underlay network and the SFC representation. The visualization is interactive, leveraging links, tooltips and a reactive network graph representation.
+The visualization is sliced into three parts as well. The overlay network, the underlay network and the SFC representation. The visualization is interactive, leveraging links, tooltips and a reactive network graph representation. The visualization is always rendered on refreshing the page with the latest data from the database. Conveniently, a refresh button at each visualization part brings you back to a refreshed view without any selected items.
 
 Underlay Visualization:
 
