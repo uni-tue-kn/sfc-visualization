@@ -12,14 +12,14 @@ The data is then visualized in the webapp as shown below:
 
 The visualization is sliced into three parts as well. The overlay network, the underlay network and the SFC representation. The visualization is interactive, leveraging links, tooltips and a reactive network graph representation.
 
-Underlay:
+Underlay Visualization:
 
 !["Underlay picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/bb278fda7b7bd29d4686fca38d9b5693ffc4b95b/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-37-15.png)
 
-Overlay:
+Overlay Visualization:
 
 !["Overlay picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/bb278fda7b7bd29d4686fca38d9b5693ffc4b95b/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-36-20.png)
 
-Service Function Chaining:
+Service Function Chaining Visualization:
 
 !["SFC picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/bb278fda7b7bd29d4686fca38d9b5693ffc4b95b/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-38-27.png)
