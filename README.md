@@ -16,8 +16,8 @@ Underlay:
 
 Overlay:
 
-!["Overlay picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/ea55a9a9cbd622d8de3c2f6869b805b00c0dc39b/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-36-20.png)
+!["Overlay picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/bb278fda7b7bd29d4686fca38d9b5693ffc4b95b/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-36-20.png)
 
 Service Function Chaining:
 
-!["SFC picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/77419e7f86edeccf3b000f904cb9b2af64ce16e2/pictures/Bildschirmfoto%20von%202022-03-11%2017-38-27.png)
+!["SFC picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/bb278fda7b7bd29d4686fca38d9b5693ffc4b95b/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-38-27.png)
