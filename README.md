@@ -16,10 +16,16 @@ Underlay Visualization:
 
 !["Underlay picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/bb278fda7b7bd29d4686fca38d9b5693ffc4b95b/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-37-15.png)
 
+This part of the visualization includes hardware and vnf tables, links to every visualized device on the site and a zoomable and draggable interactive network graph visualization. If a node in this graph is clicked or a corresponding link, the node is highlighted in the visualization and specific data is displayed below. Including a list with hosted vnfs on the device and a link to them that leads to a selected representation of this vnf at the overlay visualization part. There is also a tooltip showing important information about the network nodes on mouseover.
+
 Overlay Visualization:
 
 !["Overlay picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/bb278fda7b7bd29d4686fca38d9b5693ffc4b95b/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-36-20.png)
 
+The overlay visualization part has a sidebar with links to all the known vnfs in the network, a network graph representation only containing the vnf_hosts, virtual links between them and selectable vnf representations that are deployed on them. The network graph is again zoomable, draggable and interactive. An included tooltip is showing important information about the vnfs on mouseover. When a vnf is selected, detailed data about is can be seen below. Including a link to the selected representation of its host on the underlay part of the visualization.
+
 Service Function Chaining Visualization:
 
 !["SFC picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/bb278fda7b7bd29d4686fca38d9b5693ffc4b95b/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-38-27.png)
+
+The SFC visualization includes a sidebar with selectable links to the different SFCs and a graph visualization of only the vnf_hosts. When a SFC is selected by clicking a link to a SFC, a SF path between SFs/vnfs specified from the SFC data is highlighted and shown by using directive arrows. Additional data about the SFC instantiation is shown below including a list of the vnfs in the correct order, their hosts in the correct order and the entire JSON-formatted data about the SFC instantiation. The JSON-formatted data is printed indented to ensure readability. Again a included tooltip is showing important information about the vnfs on mouseover. And a click on a vnf representation leads to the selected representation of the vnf on the overlay visualization view.
