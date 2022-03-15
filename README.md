@@ -12,7 +12,7 @@ The visualization is sliced into three parts as well. The overlay network, the u
 
 Underlay:
 
-!["Underlay picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/a7709ab21548bbf744021106153a7815982c78df/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-37-15.png)
+!["Underlay picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/main/example pictures/Bildschirmfoto%20von%202022-03-11%2017-37-15.png)
 
 Overlay:
 
