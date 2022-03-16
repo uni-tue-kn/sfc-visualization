@@ -2,7 +2,7 @@
 
 Full-stack web application to visualize service function chaining infrastructure. 
 
-**The original repository content is going to be published to another repository because of organisatorial reasons. The link to this repo will be added tomorrow to this README**
+**The original repository content was published to this repository: https://github.com/uni-tue-kn/sfc-visualization because a corresponding bachelor thesis is still in progress**
 
 I designed and implemented a visualization system for SFC infrastructure. The project is supposed to become part of an application to simplify operating a P4-SFC network orchestrator without detailed knowledge about the underlying technical frameworks and processes. But the application can be used fo other SFC infrastructure as well.
 It is implemented using Angular as an frontend framework, Django as a backend framework, an SQlite database and a REST API connecting everything. The visualization itself is done using the D3.js package and integrated into the frontend framework. The application can be connected to an infrastructure by syncing the database with the corresponding data. The data model is defined in the Django backend and is split into three parts. 
