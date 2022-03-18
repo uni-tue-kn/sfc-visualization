@@ -6,7 +6,7 @@ Full-stack web application to visualize service function chaining infrastructure
 
 I designed and implemented a visualization system for SFC infrastructure. The project is supposed to become part of an application to simplify operating a P4-SFC network orchestrator without detailed knowledge about the underlying technical frameworks and processes. But the application can be used fo other SFC infrastructure as well.
 It is implemented using Angular as an frontend framework, Django as a backend framework, an SQlite database and a REST API connecting everything. The visualization itself is done using the D3.js package and integrated into the frontend framework. The application can be connected to an infrastructure by syncing the database with the corresponding data. The data model is defined in the Django backend and is split into three parts. 
-Part one is the "Layer2" data model, that is the corresponding data model to all the layer2 device data and data about links between the devices. "VNFs" relates to all the data about the service functions or virtual network functions in the administrative domain. The "SFCs" data model rcord in the database should contain the data about instantiated SFCs. For further information see examples in network examples.
+Part one is the "Layer2" data model. That is the corresponding data model to all the layer2 device data and data about links between the devices. "VNFs" relates to all the data about the service functions or virtual network functions in the administrative domain. The "SFCs" data model rcord in the database should contain the data about instantiated SFCs. For further information see examples in network examples.
 
 **The data is visualized in the webapp as shown below:**
 
@@ -16,7 +16,7 @@ The visualization is sliced into three parts as well. The overlay network, the u
 
 !["Underlay picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/bb278fda7b7bd29d4686fca38d9b5693ffc4b95b/example%20pictures/Bildschirmfoto%20von%202022-03-11%2017-37-15.png)
 
-This part of the visualization includes hardware and vnf tables, links to every visualized device on the site and a zoomable and draggable interactive network graph visualization. If a node in this graph is clicked or a corresponding link, the node is highlighted in the visualization and specific data is displayed below. Including a list with hosted vnfs on the device and a link to them that leads to a selected representation of this vnf at the overlay visualization part. There is also a tooltip showing important information about the network nodes on mouseover.
+This part of the visualization includes hardware and vnf tables, links to every visualized device on the site and a zoomable and draggable interactive network graph visualization. If a node in this graph is clicked or a corresponding link the node is highlighted in the visualization and specific data is displayed below. Including a list with hosted vnfs on the device and a link to them that leads to a selected representation of this vnf at the overlay visualization part. There is also a tooltip showing important information about the network nodes on mouseover.
 
 **Overlay Visualization:**
 
