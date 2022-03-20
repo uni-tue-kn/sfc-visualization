@@ -10,7 +10,7 @@ I designed and implemented a visualization system for SFC infrastructure. The pr
 
 !["Application structure picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/ad756949eaf2e1dabdbf4bf9136edd858be95d3c/webappimplementation.png)
 
-It is implemented using Angular as an frontend framework, Django as a backend framework, an SQlite database and a REST API connecting everything. The visualization itself is done using the D3.js package and integrated into the frontend framework. The application can be connected to an infrastructure by syncing the database with the corresponding data. The data model is defined in the Django backend and is split into three parts. 
+It is implemented using Angular as an frontend framework, Django as a backend framework, an SQlite database and a REST API connecting frontend and backend. The visualization itself is done using the D3.js package and integrated into the frontend framework. The application can be connected to an infrastructure by syncing the database with the corresponding data. The data model is defined in the Django backend and is split into three parts. 
 Part one is the "Layer2" data model. That is the corresponding data model to all the layer2 device data and data about links between the devices. "VNFs" relates to all the data about the service functions or virtual network functions in the administrative domain. The "SFCs" data model rcord in the database should contain the data about instantiated SFCs. For further information see examples in network examples.
 
 **The data is visualized in the webapp as shown below:**
