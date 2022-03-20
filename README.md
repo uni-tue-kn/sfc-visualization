@@ -10,8 +10,7 @@ Part one is the "Layer2" data model. That is the corresponding data model to all
 
 **Application Architecture:**
 
-!["Application structure picture"]
-(https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/ad756949eaf2e1dabdbf4bf9136edd858be95d3c/webappimplementation.png)
+!["Application structure picture"](https://github.com/coderin42/SFC_Infrastructure_Visualization_App/blob/ad756949eaf2e1dabdbf4bf9136edd858be95d3c/webappimplementation.png)
 
 **The data is visualized in the webapp as shown below:**
 
