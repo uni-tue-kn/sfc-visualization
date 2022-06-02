@@ -259,3 +259,4 @@ TSWLatexianTemp*
 *.sta
 Webapplication/.vscode/settings.json
 SFC_Infrastructure_Visualization_App/node_modules/
+node_modules/
