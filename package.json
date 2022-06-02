@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/d3": "7.1.0"
+  },
+  "dependencies": {
+    "d3-jetpack": "^2.2.0",
+    "d3-textwrap": "^3.0.0",
+    "d3-wrap": "^0.4.1",
+    "d3-zoom": "^3.0.0",
+    "re": "^0.1.4",
+    "regex": "^0.1.1"
+  }
+}

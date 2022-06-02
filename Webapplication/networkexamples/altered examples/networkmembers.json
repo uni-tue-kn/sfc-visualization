@@ -1,0 +1,111 @@
+{
+    "nodes":[
+    {
+    "group": "1",
+    "id": "randomstring1",
+    "hostname": "machine-1",
+    "username": "osboxes",
+    "ip_address": "192.168.122.10",
+    "hypervisor": "qemu+ssh://osboxes@192.168.122.10/system?no_verify=1",
+    "lxd_daemon": "https://192.168.122.10:8443",
+    "mpls_label": 100,
+    "net_iface_out": "ens3",
+    "MAC_address": "0c:21:c5:da:70:00"
+    },
+    {
+    "group": "1",
+    "id": "randomstring2",
+    "hostname": "machine-2",
+    "username": "osboxes",
+    "ip_address": "192.168.122.20",
+    "hypervisor": "qemu+ssh://osboxes@192.168.122.20/system?no_verify=1",
+    "lxd_daemon": "https://192.168.122.20:8443",
+    "mpls_label": 200,
+    "net_iface_out": "ens3",
+    "MAC_address": "0c:21:c5:b9:2d:00"
+    },
+    {   "group": "1",
+        "id": "randomstring3",
+        "hostname": "machine-3",
+        "username": "osboxes",
+        "ip_address": "192.168.122.14",
+        "hypervisor": "qemu+ssh://osboxes@192.168.122.14/system?no_verify=1",
+        "lxd_daemon": "https://192.168.122.14:8443",
+        "mpls_label": 300,
+        "net_iface_out": "ens3",
+        "MAC_address": "0c:21:da:b9:70:00"
+    },
+    {   "group": "1",
+        "id": "randomstring4",
+        "hostname": "machine-4",
+        "username": "osboxes",
+        "ip_address": "192.168.122.16",
+        "hypervisor": "qemu+ssh://osboxes@192.168.122.16/system?no_verify=1",
+        "lxd_daemon": "https://192.168.122.16:8443",
+        "mpls_label": 300,
+        "net_iface_out": "ens3",
+        "MAC_address": "0c:21:da:b9:d5:00"
+    },
+    {   "group": "2",
+        "id": "randomstring5",
+        "hostname": "machine-5",
+        "username": "osboxes",
+        "ip_address": "192.168.122.22",
+        "hypervisor": "qemu+ssh://osboxes@192.168.122.22/system?no_verify=1",
+        "lxd_daemon": "https://192.168.122.22:8443",
+        "mpls_label": 400,
+        "net_iface_out": "ens3",
+        "MAC_address": "0c:b9:da:14:d5:00"
+    },
+    {   "group": "2",
+        "id": "randomstring6",
+        "hostname": "machine-6",
+        "username": "osboxes",
+        "ip_address": "192.168.122.24",
+        "hypervisor": "qemu+ssh://osboxes@192.168.122.24/system?no_verify=1",
+        "lxd_daemon": "https://192.168.122.24:8443",
+        "mpls_label": 400,
+        "net_iface_out": "ens3",
+        "MAC_address": "0c:b9:c5:20:d5:00"
+        }
+        ,
+    {   "group": "2",
+        "id": "randomstring7",
+        "hostname": "machine-7",
+        "username": "osboxes",
+        "ip_address": "192.168.122.27",
+        "hypervisor": "qemu+ssh://osboxes@192.168.122.27/system?no_verify=1",
+        "lxd_daemon": "https://192.168.122.27:8443",
+        "mpls_label": 400,
+        "net_iface_out": "ens3",
+        "MAC_address": "0c:b9:c5:20:07:00"
+        },
+    {   "group": "7",
+        "id": "randomstring8",
+        "hostname": "machine-8",
+        "username": "osboxes",
+        "ip_address": "192.168.122.30",
+        "hypervisor": "qemu+ssh://osboxes@192.168.122.30/system?no_verify=1",
+        "lxd_daemon": "https://192.168.122.30:8443",
+        "mpls_label": 400,
+        "net_iface_out": "ens3",
+        "MAC_address": "0c:b9:c5:20:08:00"
+        }
+    ]
+    ,"links":[{"source":"randomstring1", "target":"randomstring2", "value":10},
+        {"source":"randomstring2", "target":"randomstring3", "value":10},
+        {"source":"randomstring3", "target":"randomstring4", "value":10},
+        {"source":"randomstring2", "target":"randomstring5", "value":30},
+        {"source":"randomstring3", "target":"randomstring6", "value":30},
+        {"source":"randomstring4", "target":"randomstring7", "value":20},
+        {"source":"randomstring5", "target":"randomstring8", "value":10},
+        {"source":"randomstring3", "target":"randomstring4", "value":30},
+        {"source":"randomstring5", "target":"randomstring6", "value":30},
+        {"source":"randomstring5", "target":"randomstring7", "value":10},
+        {"source":"randomstring3", "target":"randomstring2", "value":20},
+        {"source":"randomstring2", "target":"randomstring4", "value":30}
+        
+    ]
+}
+
+   

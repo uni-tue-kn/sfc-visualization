@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="overlay.svg"
+   inkscape:export-filename="/home/charlotte/Pictures/endcardpics/underlay.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68506594"
+     inkscape:cx="256.17972"
+     inkscape:cy="678.76678"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient29900"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#969696;stop-opacity:1;"
+         offset="0"
+         id="stop29898" />
+    </linearGradient>
+    <rect
+       x="250.96238"
+       y="336.24729"
+       width="211.00843"
+       height="40.529858"
+       id="rect10468" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1081" />
+    </marker>
+    <linearGradient
+       id="linearGradient1059"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1057" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient29900"
+       id="linearGradient29902"
+       x1="101.99171"
+       y1="175.93943"
+       x2="123.30944"
+       y2="175.93943"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-51.371236,1.8028436)" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#aaeeff;fill-opacity:1;stroke:#000001;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="120.3349"
+       height="87.489983"
+       x="58.43325"
+       y="-167.17191"
+       rx="3.041487"
+       ry="3.246397"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'sans-serif, Bold';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="119.56234"
+       y="92.790848"
+       id="text13818-2"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan105952">MPLS label</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-00"
+       width="53.036793"
+       height="15.570835"
+       x="117.32968"
+       y="-162.52898"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="155.58467"
+       y="158.60492"
+       id="text37589-2-5-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan106147-7"
+         x="155.58467"
+         y="158.60492">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="136.63135"
+       y="159.25546"
+       id="text37589-2-5-1-462"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-67"
+         x="136.63135"
+         y="159.25546">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.12878"
+       y="158.90408"
+       id="text37589-2-53-56"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-98"
+         x="124.12878"
+         y="158.90408">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.2843"
+       y="152.89088"
+       id="text37589-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-28"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="124.2843"
+         y="152.89088">VNF name</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-6"
+       width="53.036793"
+       height="15.570835"
+       x="117.32968"
+       y="-146.95815"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="155.62729"
+       y="143.34184"
+       id="text37589-2-5-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan106147-5"
+         x="155.62729"
+         y="143.34184">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="136.63135"
+       y="143.68462"
+       id="text37589-2-5-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-33"
+         x="136.63135"
+         y="143.68462">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.12878"
+       y="143.33325"
+       id="text37589-2-53-8"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-05"
+         x="124.12878"
+         y="143.33325">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.2843"
+       y="137.32004"
+       id="text37589-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-64"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="124.2843"
+         y="137.32004">VNF name</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-1"
+       width="53.036793"
+       height="15.570835"
+       x="117.32968"
+       y="-131.38731"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="153.30998"
+       y="127.89321"
+       id="text37589-2-5-7-91"><tspan
+         sodipodi:role="line"
+         id="tspan106147-0"
+         x="153.30998"
+         y="127.89321">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="136.63135"
+       y="128.11378"
+       id="text37589-2-5-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-03"
+         x="136.63135"
+         y="128.11378">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.12878"
+       y="127.76242"
+       id="text37589-2-53-4"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-03"
+         x="124.12878"
+         y="127.76242">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.2843"
+       y="121.74921"
+       id="text37589-9-91"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="124.2843"
+         y="121.74921">VNF name</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-72"
+       width="53.036793"
+       height="15.570835"
+       x="117.32968"
+       y="-115.81648"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="153.967"
+       y="112.34425"
+       id="text37589-2-5-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan106147-14"
+         x="153.967"
+         y="112.34425">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="136.63135"
+       y="112.54296"
+       id="text37589-2-5-1-40"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-6"
+         x="136.63135"
+         y="112.54296">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.12879"
+       y="112.19159"
+       id="text37589-2-53-2"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-99"
+         x="124.12879"
+         y="112.19159">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.28431"
+       y="106.17838"
+       id="text37589-9-08"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-13"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="124.28431"
+         y="106.17838">VNF name</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-06"
+       width="53.036793"
+       height="15.570835"
+       x="64.292892"
+       y="-162.52898"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="102.71571"
+       y="158.70525"
+       id="text37589-2-5-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan106147-9"
+         x="102.71571"
+         y="158.70525">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="83.594559"
+       y="159.25546"
+       id="text37589-2-5-1-46"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-2"
+         x="83.594559"
+         y="159.25546">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.092003"
+       y="158.90408"
+       id="text37589-2-53-58"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-6"
+         x="71.092003"
+         y="158.90408">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.24752"
+       y="152.89088"
+       id="text37589-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-84"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="71.24752"
+         y="152.89088">VNF name</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-0"
+       width="53.036793"
+       height="15.570835"
+       x="64.292892"
+       y="-146.95815"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="101.94328"
+       y="144.11429"
+       id="text37589-2-5-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan106147-1"
+         x="101.94328"
+         y="144.11429">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="83.594559"
+       y="143.68463"
+       id="text37589-2-5-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-1"
+         x="83.594559"
+         y="143.68463">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.092003"
+       y="143.33325"
+       id="text37589-2-53-1"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-0"
+         x="71.092003"
+         y="143.33325">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.24752"
+       y="137.32005"
+       id="text37589-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="71.24752"
+         y="137.32005">VNF name</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-2"
+       width="53.036793"
+       height="15.570835"
+       x="64.292885"
+       y="-131.38731"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="102.32949"
+       y="127.507"
+       id="text37589-2-5-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan106147-3"
+         x="102.32949"
+         y="127.507">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="83.594551"
+       y="128.11378"
+       id="text37589-2-5-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-9"
+         x="83.594551"
+         y="128.11378">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.091995"
+       y="127.76241"
+       id="text37589-2-53-36"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-8"
+         x="71.091995"
+         y="127.76241">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.247513"
+       y="121.74921"
+       id="text37589-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-21"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="71.247513"
+         y="121.74921">VNF name</tspan></text>
+    <rect
+       style="fill:#aaeeff;stroke:#000001;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-6"
+       width="28.406483"
+       height="87.489967"
+       x="30.026772"
+       y="79.681931"
+       rx="0.71797907"
+       ry="3.2463963"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="32.633732"
+       y="97.880074"
+       id="text3365"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3363"
+         style="stroke-width:0.264583"
+         x="32.633732"
+         y="97.880074">host</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text10466"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect10468)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="63.823673"
+       y="92.543953"
+       id="text13818"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan13816"
+         style="stroke-width:0.264583"
+         x="63.823673"
+         y="92.543953">machine-1</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#000001;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-4"
+       width="118.33142"
+       height="53.899742"
+       x="40.352016"
+       y="220.10004"
+       rx="2.9908485"
+       ry="2"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="99.4851"
+       y="233.67175"
+       id="text13818-2-9"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan105952-6"
+         x="99.4851"
+         y="233.67175">MPLS label</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-92"
+       width="53.036793"
+       height="15.570835"
+       x="99.378914"
+       y="-270.02448"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="136.45943"
+       y="266.40173"
+       id="text37589-2-5-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan106147-2"
+         x="136.45943"
+         y="266.40173">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="118.68058"
+       y="266.75098"
+       id="text37589-2-5-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-47"
+         x="118.68058"
+         y="266.75098">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="106.17802"
+       y="266.3996"
+       id="text37589-2-53-7"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-5"
+         x="106.17802"
+         y="266.3996">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="106.33354"
+       y="260.38635"
+       id="text37589-9-48"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="106.33354"
+         y="260.38635">VNF name</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-5"
+       width="53.036793"
+       height="15.570835"
+       x="99.378922"
+       y="-254.45366"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.93027"
+       y="250.95314"
+       id="text37589-2-5-7-96"><tspan
+         sodipodi:role="line"
+         id="tspan106147-10"
+         x="135.93027"
+         y="250.95314">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="118.68059"
+       y="251.18015"
+       id="text37589-2-5-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-0"
+         x="118.68059"
+         y="251.18015">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="106.17802"
+       y="250.82877"
+       id="text37589-2-53-5"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-9"
+         x="106.17802"
+         y="250.82877">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="106.33355"
+       y="244.81557"
+       id="text37589-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="106.33355"
+         y="244.81557">VNF name</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-7"
+       width="53.036793"
+       height="15.570835"
+       x="46.342129"
+       y="-270.02448"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.632484"
+       y="266.93091"
+       id="text37589-2-5-7-80"><tspan
+         sodipodi:role="line"
+         id="tspan106147-42"
+         x="82.632484"
+         y="266.93091">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="65.643791"
+       y="266.75098"
+       id="text37589-2-5-1-64"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-3"
+         x="65.643791"
+         y="266.75098">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.141239"
+       y="266.3996"
+       id="text37589-2-53-0"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-30"
+         x="53.141239"
+         y="266.3996">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.296757"
+       y="260.38635"
+       id="text37589-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="53.296757"
+         y="260.38635">VNF name</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904-5-9"
+       width="53.036793"
+       height="15.570835"
+       x="46.342129"
+       y="-254.45366"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="83.404915"
+       y="250.70987"
+       id="text37589-2-5-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan106147-4"
+         x="83.404915"
+         y="250.70987">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="65.643799"
+       y="251.18013"
+       id="text37589-2-5-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan54581-8-4"
+         x="65.643799"
+         y="251.18013">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.141239"
+       y="250.82875"
+       id="text37589-2-53-3"><tspan
+         sodipodi:role="line"
+         id="tspan50141-8-3"
+         x="53.141239"
+         y="250.82875">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.296757"
+       y="244.81554"
+       id="text37589-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan37587-7-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="53.296757"
+         y="244.81554">VNF name</tspan></text>
+    <rect
+       style="fill:#cccccc;stroke:#000001;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-6-4"
+       width="28.406483"
+       height="53.899742"
+       x="11.945533"
+       y="220.10004"
+       rx="0.71797907"
+       ry="2"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.552493"
+       y="238.29819"
+       id="text3365-7"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3363-6"
+         style="stroke-width:0.264583"
+         x="14.552493"
+         y="238.29819">host</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.068066"
+       y="233.28642"
+       id="text13818-3"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan29027"
+         x="45.068066"
+         y="233.28642">machine-2</tspan></text>
+    <path
+       style="fill:#999999;fill-rule:evenodd;stroke:url(#linearGradient29902);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 101.76028,167.1719 -1.48594,52.92814"
+       id="path29654"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#rect846-4" />
+    <rect
+       style="fill:#ffffff;stroke:#000001;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect30904"
+       width="53.036793"
+       height="15.570835"
+       x="64.292885"
+       y="-115.81648"
+       rx="2.3099718"
+       ry="1.7213153"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="99.916428"
+       y="113.4885"
+       id="text37589-2-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan106147"
+         x="99.916428"
+         y="113.4885">Port</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="80.309486"
+       y="113.39211"
+       id="text37589-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan54581"
+         x="80.309486"
+         y="113.39211">MPLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="68.564346"
+       y="113.64848"
+       id="text37589-2"><tspan
+         sodipodi:role="line"
+         id="tspan50141"
+         x="68.564346"
+         y="113.64848">id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="68.986298"
+       y="106.09621"
+       id="text37589"><tspan
+         sodipodi:role="line"
+         id="tspan37587"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="68.986298"
+         y="106.09621">VNF name</tspan></text>
+  </g>
+</svg>

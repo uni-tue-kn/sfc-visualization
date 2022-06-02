@@ -1,0 +1,21 @@
+{
+    "1": {
+    "hostname": "worker-2",
+    "username": "ben",
+    "ip_address": "10.10.10.11",
+    "lxd_port": 8443,
+    "hypervisor": "qemu+ssh://ben@10.10.10.11/system?no_verify=1",
+    "lxd_daemon": "https://10.10.10.11:8443",
+    "mpls_label": 100,
+    "net_iface_in": "enp0s3",
+    "net_iface_out": "enp0s3",
+    "MAC_iface_in": "08:00:27:fc:0f:5d",
+    "MAC_iface_out": "08:00:27:fc:0f:5d",
+    "lxd_connection": "<pylxd.client.Client object at 0x7f977ab92bb0>",
+    "libvirt_connection": "<libvirt.virConnect object at0x7f977ab92d00>",
+    "running_containers": [
+    "dummy1",
+    "ICMP-Firewall"
+    ]
+    }
+    }

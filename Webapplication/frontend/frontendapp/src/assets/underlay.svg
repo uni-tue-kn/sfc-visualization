@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="underlay.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68506594"
+     inkscape:cx="489.73388"
+     inkscape:cy="561.9897"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient29900"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#969696;stop-opacity:1;"
+         offset="0"
+         id="stop29898" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient29264">
+      <stop
+         style="stop-color:#aaeeff;stop-opacity:1;"
+         offset="0"
+         id="stop29260" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1"
+         offset="1"
+         id="stop29262" />
+    </linearGradient>
+    <rect
+       x="250.96238"
+       y="336.24729"
+       width="211.00843"
+       height="40.529858"
+       id="rect10468" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1081" />
+    </marker>
+    <linearGradient
+       id="linearGradient1059"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1057" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient29264"
+       id="linearGradient29266"
+       x1="93.824806"
+       y1="133.685"
+       x2="119.67562"
+       y2="217.83479"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient29900"
+       id="linearGradient29902"
+       x1="101.99171"
+       y1="175.93943"
+       x2="123.30944"
+       y2="175.93943"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient29266);fill-opacity:1;stroke:#000001;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="75.144638"
+       height="53.899742"
+       x="58.433254"
+       y="79.681923"
+       rx="1.8992946"
+       ry="2"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#aaeeff;stroke:#000001;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-6"
+       width="28.406483"
+       height="53.899742"
+       x="30.026772"
+       y="79.681923"
+       rx="0.71797907"
+       ry="2"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="32.633732"
+       y="97.880074"
+       id="text3365"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3363"
+         style="stroke-width:0.264583"
+         x="32.633732"
+         y="97.880074">host</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text10466"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect10468)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="68.960648"
+       y="98.650993"
+       id="text13818"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan13816"
+         style="stroke-width:0.264583"
+         x="68.960648"
+         y="98.650993">machine-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="62.603184"
+       y="116.11067"
+       id="text19432"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan19430"
+         style="stroke-width:0.264583"
+         x="62.603184"
+         y="116.11067">id= random...</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#000001;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-4"
+       width="75.144638"
+       height="53.899742"
+       x="91.723251"
+       y="218.2972"
+       rx="1.8992946"
+       ry="2"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#cccccc;stroke:#000001;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-6-4"
+       width="28.406483"
+       height="53.899742"
+       x="63.316769"
+       y="218.2972"
+       rx="0.71797907"
+       ry="2"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="65.923729"
+       y="236.49535"
+       id="text3365-7"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3363-6"
+         style="stroke-width:0.264583"
+         x="65.923729"
+         y="236.49535">host</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="101.99417"
+       y="237.26627"
+       id="text13818-3"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan29027"
+         x="101.99417"
+         y="237.26627">machine-2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="94.407158"
+       y="253.75891"
+       id="text19432-7"
+       inkscape:export-filename="/home/charlotte/Pictures/endcardpics/hostrect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan29007">id= strrand...</tspan></text>
+    <path
+       style="fill:#999999;fill-rule:evenodd;stroke:url(#linearGradient29902);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 102.47788,133.58167 20.34538,84.71553"
+       id="path29654"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect846"
+       inkscape:connection-end="#rect846-4" />
+  </g>
+</svg>

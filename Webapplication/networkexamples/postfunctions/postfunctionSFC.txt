@@ -1,0 +1,300 @@
+curl -X POST localhost:8000/sfcs/  -H "Content-Type: application/json" -d '{"SFCListID":7,"SFCList":{
+    "SFCs":[
+    {
+        "id": 118,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "trafficType": {
+        "id": 71,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "name": "KundeA",
+        "ipAddress": "10.10.10.11/32"
+        },"vnfs": [
+        {
+        "id": 26,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "dummy1",
+        "serviceType": "packetsniffer",
+        "bidirectional": "FALSE",
+        "ebpf": true,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": "None",
+        "vnf_host": "randomstring1",
+        "vnf_label": 101,
+        "ip_address": "10.180.241.170"
+        },
+        {
+            "id": 31,
+            "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+            "applicationName": "ICMP-Firewall",
+            "serviceType": "firewall",
+            "bidirectional": "FALSE",
+            "ebpf": false,
+            "virtualization": "container",
+            "vcpus": 1,
+            "vmemory": 1,
+            "firewallRules": 
+            [
+            {
+            "name": "Deny ICMP",
+            "policy": "DENY",
+            "direction": "BOTH",
+            "protocol": "ICMP",
+            "port": 0
+            }
+            ],
+            "vnf_host": "randomstring5",
+            "vnf_label": 102,
+            "ip_address": "10.180.241.196"
+            }]
+        },
+       {
+        "id": 119,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "trafficType": {
+        "id": 71,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "name": "KundeA",
+        "ipAddress": "10.10.10.11/32"
+        },"vnfs": [
+        {
+        "id": 26,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "dummy1",
+        "serviceType": "packetsniffer",
+        "bidirectional": "FALSE",
+        "ebpf": true,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": "None",
+        "vnf_host": "randomstring1",
+        "vnf_label": 101,
+        "ip_address": "10.180.241.170"
+        },
+          {
+            "id": 31,
+            "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+            "applicationName": "ICMP-Firewall",
+            "serviceType": "firewall",
+            "bidirectional": "FALSE",
+            "ebpf": false,
+            "virtualization": "container",
+            "vcpus": 1,
+            "vmemory": 1,
+            "firewallRules": 
+            [
+            {
+            "name": "Deny ICMP",
+            "policy": "DENY",
+            "direction": "BOTH",
+            "protocol": "ICMP",
+            "port": 0
+            }
+            ],
+            "vnf_host": "randomstring5",
+            "vnf_label": 102,
+            "ip_address": "10.180.241.196"
+            },
+        {
+        "id": 29,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "dummy1",
+        "serviceType": "packetsniffer",
+        "bidirectional": "FALSE",
+        "ebpf": true,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": "None",
+        "vnf_host": "randomstring7",
+        "vnf_label": 101,
+        "ip_address": "10.180.241.170"
+        }
+        ]
+        },
+        {
+        "id": 120,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "trafficType": {
+        "id": 70,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "name": "KundeC",
+        "ipAddress": "10.10.10.11/32"
+        },"vnfs": [
+        {
+        "id": 26,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "dummy1",
+        "serviceType": "packetsniffer",
+        "bidirectional": "FALSE",
+        "ebpf": true,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": "None",
+        "vnf_host": "randomstring1",
+        "vnf_label": 101,
+        "ip_address": "10.180.241.170"
+        },
+        {
+        "id": 27,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "ICMP-Firewall",
+        "serviceType": "firewall",
+        "bidirectional": "FALSE",
+        "ebpf": false,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": [
+        {
+        "name": "Deny ICMP",
+        "policy": "DENY",
+        "direction": "BOTH",
+        "protocol": "ICMP",
+        "port": 0
+        }
+        ],
+        "vnf_host": "randomstring1",
+        "vnf_label": 102,
+        "ip_address": "10.180.241.196"
+        }
+        ]
+        },
+        {
+        "id": 121,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "trafficType": {
+        "id": 71,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "name": "KundeA",
+        "ipAddress": "10.10.10.11/32"
+        },"vnfs": [
+        {
+        "id": 29,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "dummy1",
+        "serviceType": "packetsniffer",
+        "bidirectional": "FALSE",
+        "ebpf": true,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": "None",
+        "vnf_host": "randomstring7",
+        "vnf_label": 101,
+        "ip_address": "10.180.241.170"
+        },
+        {
+        "id": 30,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "ICMP-Firewall",
+        "serviceType": "firewall",
+        "bidirectional": "FALSE",
+        "ebpf": false,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": [
+        {
+        "name": "Deny ICMP",
+        "policy": "DENY",
+        "direction": "BOTH",
+        "protocol": "ICMP",
+        "port": 0
+        }
+        ],
+        "vnf_host": "randomstring4",
+        "vnf_label": 102,
+        "ip_address": "10.180.241.196"
+        },
+        {
+        "id": 26,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "dummy1",
+        "serviceType": "packetsniffer",
+        "bidirectional": "FALSE",
+        "ebpf": true,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": "None",
+        "vnf_host": "randomstring1",
+        "vnf_label": 101,
+        "ip_address": "10.180.241.170"
+        }
+        ]
+        },
+        {
+        "id": 122,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "trafficType": {
+        "id": 71,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "name": "KundeA",
+        "ipAddress": "10.10.10.11/32"
+        },"vnfs": [
+        {
+        "id": 29,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "dummy1",
+        "serviceType": "packetsniffer",
+        "bidirectional": "FALSE",
+        "ebpf": true,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": "None",
+        "vnf_host": "randomstring7",
+        "vnf_label": 101,
+        "ip_address": "10.180.241.170"
+        },
+        {
+        "id": 30,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "ICMP-Firewall",
+        "serviceType": "firewall",
+        "bidirectional": "FALSE",
+        "ebpf": false,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": [
+        {
+        "name": "Deny ICMP",
+        "policy": "DENY",
+        "direction": "BOTH",
+        "protocol": "ICMP",
+        "port": 0
+        }
+        ],
+        "vnf_host": "randomstring4",
+        "vnf_label": 102,
+        "ip_address": "10.180.241.196"
+        },
+        {
+        "id": 29,
+        "owner": "c6f63de5-5e2f-44d7-8b9f-c9d646f3ff67",
+        "applicationName": "dummy1",
+        "serviceType": "packetsniffer",
+        "bidirectional": "FALSE",
+        "ebpf": true,
+        "virtualization": "container",
+        "vcpus": 1,
+        "vmemory": 1,
+        "firewallRules": "None",
+        "vnf_host": "randomstring7",
+        "vnf_label": 101,
+        "ip_address": "10.180.241.170"
+        }
+        ]
+        }
+    ]
+    }                                                                            
+
+   }'                                                                                                                                                                                              
+
+
+    

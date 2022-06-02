@@ -1,0 +1,3 @@
+curl -X POST localhost:8000/vnfs/  -H "Content-Type: application/json" -d '{"Network":{
+    "nodes":
+        []}}'

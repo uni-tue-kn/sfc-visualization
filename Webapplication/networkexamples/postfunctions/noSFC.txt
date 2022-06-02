@@ -1,0 +1,2 @@
+curl -X POST localhost:8000/sfcs/  -H "Content-Type: application/json" -d '{"SFCList":{
+    "SFCs":[]}}'
